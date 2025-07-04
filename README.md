@@ -6,7 +6,7 @@ A clean, fully responsive and modern **business website** designed using **HTML5
 
 ## 📌 Live Demo
 
-🌐 [View Live Website](https://your-github-ayushsingh7703.github.com/demo-corporate-website/)
+🌐 [View Live Website](https://your-github-ayushsingh7703.github.io/demo-corporate-website/)
 
 ---
 
